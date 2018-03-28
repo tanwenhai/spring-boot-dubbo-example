@@ -1,0 +1,8 @@
+server:
+  port: 0
+spring:
+  application:
+    name: dubbo-spring-boot-starter
+  dubbo:
+    server: true
+    registry: N/A

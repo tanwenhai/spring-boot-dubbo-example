@@ -1,0 +1,4 @@
+archivesBaseName = 'demo-provider'
+dependencies {
+    compile project(':service')
+}
